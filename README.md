@@ -1,8 +1,8 @@
 # 30DaysofSwift
 
 ## Hi Community ##
-I am Talha VAROL, In this repo, I will try to make 30 swift projects created by Allen Wang.
-I try to practice a lot while learning Swift.
+I'm Talha VAROL, I'm trying to be an ios developer. In this repo I will try to do 30 Swift projects created by Allen Wang.
+I try to practice a lot while learning Swift. Thanks for inspiring me :)
 
 
 ## Project Index & GIF Showcase ##
